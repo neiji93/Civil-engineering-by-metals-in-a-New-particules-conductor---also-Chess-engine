@@ -10,3 +10,7 @@ float getInheritanceCGAL_GPU_forCrashProbe3D(...)
 
 //we used too many time complex forms of equations. Here lets use a weighted sum. maybe ai can deliver good results.
 void weightedSum_ArrayM....
+
+
+
+//we can mix or use those 2 previous functions with radiosity. But to force the experiment, we can say that ....
