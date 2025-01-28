@@ -6,3 +6,7 @@ float getInheritanceCGAL_GPU_forCrashProbe3D(...)
 {
 
 }
+
+
+//we used too many time complex forms of equations. Here lets use a weighted sum. maybe ai can deliver good results.
+void weightedSum_ArrayM....
